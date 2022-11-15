@@ -1,1 +1,2 @@
-My first Git document
+My first Git document.
+I am editing this
